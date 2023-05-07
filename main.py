@@ -9,3 +9,6 @@ async def on_ready():
 @bot.command
 async def oi(mensagem):
     await mensagem.send('Olá!')
+
+#Acontece que na primeira versão eu esqueci de por a função token kkkkkkk
+bot.run('Digite seu toke aqui!')
