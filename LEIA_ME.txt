@@ -1,2 +1,2 @@
 1. Favor instalar o python antes de tudo ok, fiz esse bot na versão '3.11.3'
-2. Instale a biblioteca do discord vou deixar o codigo aqui caso não saiba. 'pip install discord.py'
+2. Instale a biblioteca do discord vou deixar o codigo aqui caso não saiba. 'pip install -U discord.py'
